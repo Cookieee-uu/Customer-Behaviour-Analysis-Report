@@ -124,9 +124,3 @@ File `.pbix` không được đưa lên repository vì chứa dữ liệu đã n
 - Điểm Frequency dùng số đơn (tối đa 5) thay vì phân vị; số đơn trung bình mỗi khách chỉ khoảng 1,5 nên điểm F tập trung ở mức thấp.
 - Tuổi và nhóm tuổi tính theo ngày làm mới dữ liệu, không cố định theo ngày chốt RFM.
 - Ngưỡng điểm và bảng gán phân khúc là quy ước của dự án, chưa được kiểm định bằng kết quả chiến dịch thực tế.
-
-## 10. Tác giả
-
-**[Họ tên]** – [Vai trò / định hướng nghề nghiệp]
-LinkedIn: [đường dẫn] · Email: [địa chỉ email]
-
